@@ -1,0 +1,6 @@
+#Dataset descriptor for salaries
+#Sat Jul 26 13:05:56 UTC 2025
+location=hdfs\://43b5b2d727cb\:9000/user/sic2025_NguyenThiThuTrang/hive/warehouse/Capstonesic2025_NguyenThiThuTrang/salaries
+version=1
+compressionType=snappy
+format=parquet
